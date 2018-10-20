@@ -1,0 +1,10 @@
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\bin\Debug\DataMakerWinform.exe.config
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\bin\Debug\DataMakerWinform.exe
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\bin\Debug\DataMakerWinform.pdb
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.csprojAssemblyReference.cache
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.Form1.resources
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.Properties.Resources.resources
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.csproj.GenerateResource.cache
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.csproj.CoreCompileInputs.cache
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.exe
+C:\Users\15845\source\repos\DataMakerWinform\DataMakerWinform\obj\Debug\DataMakerWinform.pdb
